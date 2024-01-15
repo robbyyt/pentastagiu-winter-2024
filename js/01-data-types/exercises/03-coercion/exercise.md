@@ -36,8 +36,13 @@ console.log("1" == 1);
 console.log("1" === 1);
 ```
 
+```javascript
+console.log([] == false);
+```
+
 ## References
 
 - https://wtfjs.com/
 - https://kbpsystem777.github.io/You-Dont-Know-JS/
 - https://medium.com/@ashbygreg/understanding-javascript-coercion-in-5-easy-steps-347f9f1a4e36
+- https://medium.com/front-end-weekly/implicit-coercion-in-javascript-5077ad5510d#:~:text=Implicit%20Coercion%20is%20much%20more,is%20famous%20for%20this%20behavior.
