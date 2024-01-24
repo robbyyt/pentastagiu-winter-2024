@@ -1,0 +1,12 @@
+h1,
+h2,
+h3 {
+  color: green;
+}
+
+.container {
+  background-color: silver;
+  padding: 20px;
+  text-align: center;
+  margin-block: 20px;
+}
