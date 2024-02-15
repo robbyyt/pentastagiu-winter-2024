@@ -13,7 +13,7 @@ A function is composed of:
 - the function keyword (we will look at an alternative syntax later)
 - the name (optional)
 - a list of parameters (can be empty)
-- the function can either return things 
+- the function can either return things
 
 **Some interesting facts/use-cases**
 
